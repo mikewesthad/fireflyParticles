@@ -2993,3 +2993,10 @@
 1379091464 source:c:\openframeworks\apps\myapps\fireflyparticles\src\testapp.cpp
 	"testApp.h"
 
+1379091188 c:\openframeworks\apps\myapps\fireflyparticles\src\firefly.h
+	"ofMain.h"
+
+1379091307 c:\openframeworks\apps\myapps\fireflyparticles\src\fireflyswarm.h
+	"ofMain.h"
+	"firefly.h"
+

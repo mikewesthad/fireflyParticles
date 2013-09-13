@@ -119,8 +119,12 @@
 		<Unit filename="icon.rc">
 			<Option compilerVar="WINDRES" />
 		</Unit>
-		<Unit filename="include/firefly.h" />
-		<Unit filename="include/fireflySwarm.h" />
+		<Unit filename="include/firefly.h">
+			<Option virtualFolder="src/" />
+		</Unit>
+		<Unit filename="include/fireflySwarm.h">
+			<Option virtualFolder="src/" />
+		</Unit>
 		<Unit filename="src/firefly.cpp" />
 		<Unit filename="src/fireflySwarm.cpp" />
 		<Unit filename="src/main.cpp">
