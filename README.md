@@ -1,4 +1,4 @@
 fireflyParticles
 ================
 
-A small particle system made while learning openFrameworks
+A small particle system
